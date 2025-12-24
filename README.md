@@ -1,8 +1,8 @@
 # Hi, I'm Aryan Jalak 👋
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Phone](https://img.shields.io/badge/Phone-%2B91--8767390358-brightgreen?style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Email](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Phone](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918767390358)
 
 I'm a passionate **AI & Data Science enthusiast** from Pune, India, pursuing B.Tech in **Computer Science & Engineering (AI & Analytics)** at **MIT ADT University, Pune**.  
 I enjoy building innovative AI solutions and turning ideas into impactful projects.
