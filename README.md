@@ -4,16 +4,16 @@
 [![Email](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanjalak12@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918767390358)
 
-I'm a passionate **AI & Data Science enthusiast** from Pune, India, pursuing B.Tech in **Computer Science & Engineering (AI & Analytics)** at **MIT ADT University, Pune**.  
+I'm a passionate **AI & Data Science enthusiast** from Pune, India, pursuing B.Tech(LY) in **Computer Science & Engineering (AI & Analytics)** at **MIT ADT University, Pune**.  
 I enjoy building innovative AI solutions and turning ideas into impactful projects.
 
 ---
 
 ## 🔹 About Me
-- AI Engineer | Data Science & Machine Learning Enthusiast  
+- AI Engineer | Data Science & Machine Learning | Data Analyst Enthusiast  
 - Hands-on experience in building AI solutions and cloud-based projects  
-- Always exploring new technologies and contributing to open-source  
-- Strong foundation in Python, ML, AI frameworks, and cloud technologies  
+- Always exploring new technologies  
+- Strong foundation in Python, SQL, ML, AI frameworks, and cloud technologies  
 
 ---
 
@@ -22,11 +22,11 @@ Here are some of my key projects:
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **Vocahire** | AI-powered recruitment assistant to analyze resumes & match candidates | Python, NLP, ML |
-| **IdeaBot** | Intelligent idea generation & brainstorming chatbot | Python, GPT APIs |
-| **Smart Glasses for Blind** | Wearable device assisting visually impaired users in navigation | IoT, Python, Computer Vision |
-| **AI-based Knee Implantation** | AI-driven project for predicting optimal knee implants | Python, ML, Deep Learning |
-| **AI for Bharat Workshops Projects** | Hands-on projects from workshops like RAG AI Agents, Serverless AI Editors | AWS, Python, AI/ML |
+| **Vocahire** | AI-powered recruitment assistant to analyze resumes & match candidates | Python, NLP, ML, LLM, etc. |
+| **IdeaBot** | Intelligent idea generation & brainstorming chatbot | Python, GPT APIs, LLM, etc. |
+| **Smart Glasses for Blind** | Wearable device assisting visually impaired users in navigation | CNN, RNN, Python, Computer Vision, etc. |
+| **AI-based Knee Implantation** | AI-driven project for predicting optimal knee implants(in-progress) | Python, ML, DL, yolo, computer vision, etc. |
+| **AI for Bharat Workshops Projects** | Hands-on projects from workshops like RAG AI Agents, Serverless AI Editors, etc | AWS, Python, AI/ML |
 
 *More projects coming soon…*  
 
@@ -70,14 +70,6 @@ Here are some of my key projects:
 
 ---
 
-## 🌐 Connect with Me
-- LinkedIn: [Aryan Jalak](https://www.linkedin.com/in/aryan-jalak-51430734b/)  
-- Email: [aryanjalak12@gmail.com](mailto:aryanjalak12@gmail.com)  
-- Phone: +91-8767390358  
-
----
-
-
 ## 🤖 AI-Enhanced Developer
 I believe in **augmented intelligence** - combining human creativity with AI efficiency. My workflow leverages tools like Cursor, GitHub Copilot, and Google AI Studio to:
 
@@ -104,6 +96,13 @@ Result? Faster delivery with fewer bugs.
 
 ## ⚡ Fun Fact
 I treat coding like a conversation with AI - I provide the vision, tools like Copilot provide the syntax. The result? More time for architecture, testing, and yes, building unnecessarily smart IoT devices for my home!
+
+---
+
+## 🌐 Connect with Me
+- LinkedIn: [Aryan Jalak](https://www.linkedin.com/in/aryan-jalak-51430734b/)  
+- Email: [aryanjalak12@gmail.com](mailto:aryanjalak12@gmail.com)  
+- Phone: +91-8767390358  
 
 ---
 ### If you like my work, feel free to ⭐ my repositories and connect with me!
