@@ -22,13 +22,17 @@ Here are some of my key projects:
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **Vocahire** | AI-powered recruitment assistant to analyze resumes & match candidates | Python, NLP, ML, LLM, etc. |
-| **IdeaBot** | Intelligent idea generation & brainstorming chatbot | Python, GPT APIs, LLM, etc. |
-| **Smart Glasses for Blind** | Wearable device assisting visually impaired users in navigation | CNN, RNN, Python, Computer Vision, etc. |
-| **AI-based Knee Implantation** | AI-driven project for predicting optimal knee implants(in-progress) | Python, ML, DL, yolo, computer vision, etc. |
-| **AI for Bharat Workshops Projects** | Hands-on projects from workshops like RAG AI Agents, Serverless AI Editors, etc | AWS, Python, AI/ML |
+| **LLM Evaluator Platform** | Built a system to evaluate and benchmark Large Language Models on accuracy, reasoning, and response quality using structured metrics and dashboards | Python, NLP, LLMs, FastAPI, Streamlit |
+| **RAGentic.ai** | Agentic AI platform combining Retrieval-Augmented Generation (RAG) with autonomous research agents for intelligent information retrieval and reasoning | Python, LangChain, RAG, Vector DBs, LLMs |
+| **AI-Powered Customer Churn Analytics (IBM Telco)** | End-to-end churn analytics platform with predictive modeling, explainable AI (SHAP), and AI-driven retention recommendations using real-world telecom data | Python, XGBoost, SHAP, SQL, Streamlit |
+| **Vocahire** | AI-powered recruitment assistant that analyzes resumes and matches candidates to job roles using NLP and machine learning | Python, NLP, ML, LLMs |
+| **IdeaBot** | Intelligent idea generation and brainstorming chatbot for startups and creators | Python, LLMs, Conversational AI |
+| **Smart Glasses for Blind** | Wearable assistive technology to help visually impaired users with navigation and obstacle detection | CNN, RNN, Python, Computer Vision |
+| **AI-Based Knee Implantation (In Progress)** | AI-driven system for predicting optimal knee implant selection using medical imaging and deep learning | Python, ML, DL, YOLO, Computer Vision |
+| **AI for Bharat – Workshop Projects** | Hands-on AI projects including RAG agents, serverless AI editors, and applied ML solutions | Python, AI/ML, AWS |
 
-*More projects coming soon…*  
+*More projects coming soon…*
+
 
 ---
 
@@ -59,7 +63,11 @@ Here are some of my key projects:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" width="40" height="40"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="40" height="40"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" title="OpenCV" width="40" height="40"/> &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" title="Scikit-Learn" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" title="Scikit-Learn" width="40" height="40"/> &nbsp;
+<img src="https://img.shields.io/badge/Neural Networks-FF6F00?style=flat&logo=diagram-3&logoColor=white" alt="Neural Networks" title="Neural Networks" height="40"/> &nbsp;
+<img src="https://img.shields.io/badge/CNN-FF6F00?style=flat&logo=diagram-3&logoColor=white" alt="CNN" title="Convolutional Neural Networks" height="40"/> &nbsp;
+<img src="https://img.shields.io/badge/RNN-FF6F00?style=flat&logo=diagram-3&logoColor=white" alt="RNN" title="Recurrent Neural Networks" height="40"/> &nbsp;
+<img src="https://img.shields.io/badge/ANN-FF6F00?style=flat&logo=diagram-3&logoColor=white" alt="ANN" title="Artificial Neural Networks" height="40"/>
 
 ### Data & Analytics
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" width="40" height="40"/> &nbsp;
