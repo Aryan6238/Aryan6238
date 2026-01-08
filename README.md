@@ -22,7 +22,7 @@ Here are some of my key projects:
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **LLM Evaluator Platform** | Built a system to evaluate and benchmark Large Language Models on accuracy, reasoning, and response quality using structured metrics and dashboards | Python, NLP, LLMs, FastAPI, Streamlit |
+| **LLM Evaluator Platform** | Built a system to evaluate and benchmark Large Language Models on accuracy, reasoning, and response quality using structured metrics and dashboards | Python, NLP, LLMs, FastAPI, typescript, Html, css, js |
 | **RAGentic.ai** | Agentic AI platform combining Retrieval-Augmented Generation (RAG) with autonomous research agents for intelligent information retrieval and reasoning | Python, LangChain, RAG, Vector DBs, LLMs |
 | **AI-Powered Customer Churn Analytics (IBM Telco)** | End-to-end churn analytics platform with predictive modeling, explainable AI (SHAP), and AI-driven retention recommendations using real-world telecom data | Python, XGBoost, SHAP, SQL, Streamlit |
 | **Vocahire** | AI-powered recruitment assistant that analyzes resumes and matches candidates to job roles using NLP and machine learning | Python, NLP, ML, LLMs |
